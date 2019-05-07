@@ -11,25 +11,25 @@
 
 primary:
   - text: Arts
-    href: /arts
+    href: arts
   - text: Education
-    href: /education
+    href: education
   - text: Economic Development
-    href: /economic-development
+    href: economic-development
   - text: Environment
-    href: /environment
+    href: environment
   - text: Financial Reforms
-    href: /financial-reforms
+    href: financial-reforms
   - text: Infrastructure
-    href: /infrastructure
+    href: infrastructure
   - text: Quality of Life
-    href: /quality-of-life
+    href: quality-of-life
   - text: Working Families
-    href: /working-families
+    href: working-families
 
 footer:
   - text: Accessibility
-    href: /accessibility
+    href: accessibility
   - text: Feedback
     href: /
   - text: Privacy
