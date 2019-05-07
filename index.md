@@ -1,8 +1,18 @@
 ---
+
 layout: home
+permalink: /
+title: Moving Chicago Forward
 
 hero:
   image: /assets/img/hero.png
+  callout:
+    alt: "Moving Chicago Forward"
+    text: A Look Back On Eight Years Of Progress
+  button:
+    href: https://resilient.chicago.gov/download/Moving Chicago Forward.pdf
+    text: Download the report
+  content: "Read the full report here:" 
 
 ---
 
