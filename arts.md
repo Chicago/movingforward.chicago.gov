@@ -19,6 +19,6 @@ Since taking office in 2011, Mayor Emanuel has been an enthusiastic champion for
 
 1. Chicago is a city of festivals, with more than **700 neighborhood events** facilitated by DCASE annually including performances, films, festivals, and youth programming.
 
-! [Kerry James Marshall Mural at Chicago Cultural Center](Kerry-James-Marshall.jpg)
+![Kerry James Marshall Mural at Chicago Cultural Center](Kerry-James-Marshall.jpg)
 
 
