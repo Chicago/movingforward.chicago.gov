@@ -19,7 +19,7 @@ Since taking office in 2011, Mayor Emanuel has been an enthusiastic champion for
 
 To read more about the Arts, Culture and Tourism progress made over the last eight years, click here. 
 
-![Instructor and participants at SummerDance in Grant Park](assets/img/Summerdance.jpg)
+![Instructor and participants at SummerDance in Grant Park](/assets/img/Summerdance.jpg)
 
 
  

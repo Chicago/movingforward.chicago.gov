@@ -27,4 +27,4 @@ Chicago’s rise has been fueled by its place at the center of the nation’s tr
 
 To read more about the Infrastructure progress made over the last eight years, click here.
 
-![Image of bridge reconstruction](assets/img/Ensuring the Provision of Critical Infrastructure.jpg) 
+![Image of bridge reconstruction](/assets/img/Ensuring the Provision of Critical Infrastructure.jpg) 

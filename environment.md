@@ -21,4 +21,4 @@ Mayor Emanuel believes that sustainability and economic growth go hand in hand. 
 
 To read more about the Environment and Sustainability progress made over the last eight years, click here.
 
-![Image of roof solar field](assets/img/026 solar field.jpg) 
+![Image of roof solar field](/assets/img/026 solar field.jpg) 

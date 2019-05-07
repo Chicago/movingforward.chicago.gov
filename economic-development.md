@@ -21,4 +21,4 @@ As a world-class city located at the center of the nation’s air, rail and frei
 
 To read more about the Economic Development progress made over the last eight years, click here.
 
-![Method Factory in Pullman](assets/img/Method Factory.jpg) 
+![Method Factory in Pullman](/assets/img/Method Factory.jpg) 

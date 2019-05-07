@@ -19,4 +19,4 @@ Over the past eight years, Mayor Emanuel has made it a priority to generate job
 
 To read more about the Working Families progress made over the last eight years, click here.
 
-![Image of family walking in front of homes in West Garfield Park](WEST_GARFIELD_PARK.jpg) 
+![Image of family walking in front of homes in West Garfield Park](/assets/img/WEST_GARFIELD_PARK.jpg) 

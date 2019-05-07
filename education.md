@@ -21,4 +21,4 @@ Mayor Emanuel has made investments throughout the city’s educational systems t
 
 To read more about the Education and Youth progress made over the last eight years, click here.
 
-![Image of young girl raising her hand](assets/img/Promoting Engaged, Prepared, and Cohesive Communities.jpg) 
+![Image of young girl raising her hand](/assets/img/Promoting Engaged, Prepared, and Cohesive Communities.jpg) 
