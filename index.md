@@ -5,7 +5,7 @@ permalink: /
 title: Moving Chicago Forward
 
 hero:
-  image: /assets/img/hero.png
+  image: /assets/img/Chicago Skyline.jpg
   callout:
     alt: "Moving Chicago Forward"
     text: A Look Back On Eight Years Of Progress
