@@ -10,6 +10,8 @@
 #
 
 primary:
+  - text: Accountability
+    href: accountability
   - text: Arts
     href: arts
   - text: Education
@@ -20,8 +22,14 @@ primary:
     href: environment
   - text: Financial Reforms
     href: financial-reforms
+  - text: Housing
+    href: housing
   - text: Infrastructure
     href: infrastructure
+  - text: New Americans
+    href: new-americans
+  - text: Public Safety
+    href: public-safety
   - text: Quality of Life
     href: quality-of-life
   - text: Working Families
@@ -31,7 +39,7 @@ footer:
   - text: Accessibility
     href: accessibility
   - text: Feedback
-    href: /
+    href: https://www.surveymonkey.com/r/cocwebsitesurvey
   - text: Privacy
     href: https://www.chicago.gov/city/en/general/privacy.html
     external: true
