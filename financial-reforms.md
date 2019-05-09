@@ -20,6 +20,6 @@ to ensure financial stability. Since 2012, the City has added **over $50 million
 
 1. Mayor Emanuel has worked to develop **long-term solutions to a series of pension problems** that threatened the financial security of the city’s workers, retirees and the future of our city. All four funds are now on actuarially-based funding plans set by state statute, and each fund has a dedicated funding source in place. Without these reforms, the City’s four pension funds would likely become insolvent in the 2020’s.
 
-[Read more about the {{page.title}} progress made over the last eight years.](https://resilient.chicago.gov/download/Moving Chicago Forward.pdf)
+[Read more about the {{page.title}} progress made over the last eight years.]({{site.baseurl}}download/Moving Chicago Forward.pdf)
 
 ![image of Pilsen neighborhood](/assets/img/Pilsen.jpg) 

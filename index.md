@@ -10,7 +10,7 @@ hero:
     alt: "Moving Chicago Forward"
     text: A Look Back On Eight Years Of Progress
   button:
-    href: https://resilient.chicago.gov/download/Moving Chicago Forward.pdf
+    href: {{site.baseurl}}download/Moving Chicago Forward.pdf
     text: Download the report
   content: "Read the full report here:" 
 
@@ -32,7 +32,7 @@ Over the past eight years, these efforts have included:
 Through this tremendous collective effort, Chicago has seen a transformation that no one would have anticipated in 2011. From the achievement of record academic gains for CPS students, to historic lows in unemployment rates and the highest level of jobs per-capita in the City in over five decades. The investments and initiatives of the past eight years have built momentum to ensure Chicago’s brightest days remain ahead.
 
 
-[Read more about this in the report, beginning on page 9.](https://resilient.chicago.gov/download/Moving Chicago Forward.pdf)
+[Read more about this in the report, beginning on page 9.]({{site.baseurl}}download/Moving Chicago Forward.pdf)
 
 
 ## 2011 Transition to Today

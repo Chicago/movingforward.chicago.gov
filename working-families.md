@@ -17,6 +17,6 @@ Over the past eight years, Mayor Emanuel has made it a priority to generate job
 
 1. Through the Department of Family and Support Services, the Center for Economic Progress and Ladder Up, Mayor Emanuel launched **Tax Prep Chicago**, a program that allows Chicagoans to access free income tax return services at sites located throughout the city. Tax Prep Chicago has helped approximately 20,000 families and individuals receive nearly $30 million in tax refunds and credits, including the Earned Income Tax Credit, each year. 
 
-[Read more about the {{page.title}} progress made over the last eight years.](https://resilient.chicago.gov/download/Moving Chicago Forward.pdf)
+[Read more about the {{page.title}} progress made over the last eight years.]({{site.baseurl}}download/Moving Chicago Forward.pdf)
 
 ![Image of family walking in front of homes in West Garfield Park](/assets/img/WEST_GARFIELD_PARK.jpg) 

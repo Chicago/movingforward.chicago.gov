@@ -25,6 +25,6 @@ Chicago’s rise has been fueled by its place at the center of the nation’s tr
 
 1. Since 2011, more than $11 billion in airfield, passenger terminal, and infrastructure investments have been secured for **Chicago’s airports**. The O’Hare 21 program will deliver the biggest terminal expansion in ORD history. Over the next decade the $8.5 billion initiative will usher in capacity-building and connectivity-enhancing projects within and around the terminals to streamline travel and upgrade the passenger experience.
 
-[Read more about the {{page.title}} progress made over the last eight years.](https://resilient.chicago.gov/download/Moving Chicago Forward.pdf)
+[Read more about the {{page.title}} progress made over the last eight years.]({{site.baseurl}}download/Moving Chicago Forward.pdf)
 
 ![Image of bridge reconstruction](/assets/img/Ensuring the Provision of Critical Infrastructure.jpg) 
