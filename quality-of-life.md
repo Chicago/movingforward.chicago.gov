@@ -23,6 +23,6 @@ Improving quality of life for Chicago residents has been a central priority to M
 
 1. In 2018, Mayor Emanuel tasked city departments and policy experts to develop the **Youth Quality of Life Index and Scorecard**, a first-of-its-kind measurement of Chicago’s youth investments over time and a tool to score future budgets and policies for potential impact.
 
-[Read more about the {{page.title}} progress made over the last eight years.]({{site.baseurl}}download/Moving Chicago Forward.pdf)
+[Read more about the {{page.title}} progress made over the last eight years.]({{site.url}}download/Moving Chicago Forward.pdf)
 
 ![young girls smell flowers in conservatory](/assets/img/youth_flowers.jpg)

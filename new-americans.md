@@ -20,6 +20,6 @@ Mayor Emanuel has been committed to making Chicago the most immigrant-frien
 
 1. In June 2012, Mayor Emanuel hosted the first-ever **citizenship swearing-in ceremony** in Chicago’s City Council Chambers, during which 25 Chicagoans become naturalized citizens. Since then, Mayor Emanuel has hosted ten naturalization ceremonies at City Council Chambers, Harold Washington Library and the Chicago Cultural Center.   
 
-[Read more about the {{page.title}} progress made over the last eight years.]({{site.baseurl}}download/Moving Chicago Forward.pdf)
+[Read more about the {{page.title}} progress made over the last eight years.]({{site.url}}download/Moving Chicago Forward.pdf)
 
 ![Image of children singing](/assets/img/205 disney magnet.jpg) 

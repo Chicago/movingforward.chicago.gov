@@ -32,7 +32,7 @@ Over the past eight years, these efforts have included:
 Through this tremendous collective effort, Chicago has seen a transformation that no one would have anticipated in 2011. From the achievement of record academic gains for CPS students, to historic lows in unemployment rates and the highest level of jobs per-capita in the City in over five decades. The investments and initiatives of the past eight years have built momentum to ensure Chicago’s brightest days remain ahead.
 
 
-[Read more about this in the report, beginning on page 9.]({{site.baseurl}}download/Moving Chicago Forward.pdf)
+[Read more about this in the report, beginning on page 9.]({{site.url}}download/Moving Chicago Forward.pdf)
 
 
 ## 2011 Transition to Today
@@ -52,6 +52,6 @@ In the spirit of hitting the ground running and continuing that momentum through
 
 1. **Developing a new cultural plan for Chicago**, Mayor Emanuel and the Department of Cultural Affairs and Special Events undertook a nine-month process to develop the first new plan for strengthening the city’s arts and cultural sector in more than 25 years. 
 
-[View a Complete List of 2011 Transition Initiatives and Accomplishments in the report, beginning on page 19.]({{site.baseurl}}download/Moving Chicago Forward.pdf)
+[View a Complete List of 2011 Transition Initiatives and Accomplishments in the report, beginning on page 19.]({{site.url}}download/Moving Chicago Forward.pdf)
 
 Looking forward, the work that has been done represents a beginning and not an end. In the years ahead, the City will complete the replacement and modernization of 270,000 streetlights, experience a citywide expansion of the Divvy bike sharing system, execute the largest capital improvement project CTA has ever undertaken to completely rebuild the Red and Purple lines north of Belmont and build a new Global Terminal at O’Hare Airport, the first of its kind in the country.  

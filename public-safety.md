@@ -24,6 +24,6 @@ Since that call to action by Mayor Emanuel, CPD has added more officers, increas
 
 1. The Mayor created the **Office of Violence Prevention** within the Mayor’s Office in the 2019 budget to further align strategies and investments for violence prevention and intervention across city departments and identify new investments in services and strategies that target individuals who are at elevated risk of violence involvement.
 
-[Read more about the {{page.title}} progress made over the last eight years.]({{site.baseurl}}download/Moving Chicago Forward.pdf)
+[Read more about the {{page.title}} progress made over the last eight years.]({{site.url}}download/Moving Chicago Forward.pdf)
 
 ![Image of community event with CPD](/assets/img/CAPS.jpg) 
