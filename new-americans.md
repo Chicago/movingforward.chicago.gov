@@ -22,4 +22,4 @@ Mayor Emanuel has been committed to making Chicago the most immigrant-frien
 
 To read more about the progress made over the last eight years, click here.
 
-![Image of children singing](205 disney magnet.jpg) 
+![Image of children singing](/assets/img/205 disney magnet.jpg) 

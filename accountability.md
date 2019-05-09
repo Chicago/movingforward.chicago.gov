@@ -27,4 +27,4 @@ In addition, the administration has brought a new level of accountability to Cit
 
 To read more about the progress made over the last eight years, click here.
 
-![image of the exterior of City Hall](City Hall.jpg) 
+![image of the exterior of City Hall](/assets/img/City Hall.jpg) 

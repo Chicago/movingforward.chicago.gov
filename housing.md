@@ -27,4 +27,4 @@ Since taking office in 2011, Mayor Emanuel has supported affordable housing in e
 
 To read more about the progress made over the last eight years, click here.
 
-![image of neighborhood housing](EAST_SIDE.jpg) 
+![image of neighborhood housing](/assets/img/EAST_SIDE.jpg) 

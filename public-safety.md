@@ -26,4 +26,4 @@ Since that call to action by Mayor Emanuel, CPD has added more officers, increas
 
 To read more about the progress made over the last eight years, click here.
 
-![Image of community event with CPD](CAPS.jpg) 
+![Image of community event with CPD](/assets/img/CAPS.jpg) 
