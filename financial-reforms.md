@@ -5,6 +5,8 @@ title: Financial Reforms
 
 ---
 
+![image of Pilsen neighborhood](/assets/img/Pilsen.jpg)
+
 When Mayor Emanuel took office eight years ago, he inherited a structural operating budget shortfall of more than $630 million and a nearly bankrupt pension system that threatened the financial security of the workers, retirees and citizens of Chicago. Through efficiencies, reforms, tighter spending controls and strong fiscal management, by 2019 the shortfall had been reduced by 85 percent. Mayor Emanuel has grown the City’s reserves and improved its liquidity to mitigate current and future risks, to protect against emergencies or unanticipated budget shortfalls while continuing to make critical investments in improved city services and additional programs for our children. 
 
 1. The Emanuel Administration achieved savings and efficiencies from strategic energy and utility purchasing, reducing duplicative operations across departments, transitioning garbage collection and other services to a grid model, and finding savings in the City’s healthcare costs. In total, Mayor Emanuel has achieved more than **$720 million in savings, reforms and efficiencies** since taking office.
@@ -21,5 +23,3 @@ to ensure financial stability. Since 2012, the City has added **over $50 million
 1. Mayor Emanuel has worked to develop **long-term solutions to a series of pension problems** that threatened the financial security of the city’s workers, retirees and the future of our city. All four funds are now on actuarially-based funding plans set by state statute, and each fund has a dedicated funding source in place. Without these reforms, the City’s four pension funds would likely become insolvent in the 2020’s.
 
 [Read more about the {{page.title}} progress made over the last eight years.]({{site.url}}/download/Moving Chicago Forward.pdf)
-
-![image of Pilsen neighborhood](/assets/img/Pilsen.jpg) 

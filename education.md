@@ -5,6 +5,8 @@ title: Education and Youth
 
 ---
 
+![Image of young girl raising her hand](/assets/img/Promoting Engaged, Prepared, and Cohesive Communities.jpg) 
+
 Mayor Emanuel has made investments throughout the city’s educational systems to give every child a strong foundation for success in education, career and life. Through the Mayor’s vision, the city has seen improved outcomes throughout the education pipeline. Since 2011, Chicago Public Schools (CPS) students have outpaced the academic growth of national and state peers in both math and reading, while reaching historic highs for test scores, the rate of freshmen on track to graduate, high school graduation, and college enrollment rates. The city’s educational improvements extend beyond elementary and high school; Mayor Emanuel reinvented City Colleges of Chicago through its new Centers of Excellence and college-to-career focus, and also created the Star Scholarship to give hardworking CPS students free tuition and books at City Colleges. 
 
 1. Mayor Emanuel transformed Chicago from having the shortest school day of any major city in the country to a city with a full school day and a longer school year, providing students entering kindergarten with **2.5 additional years of instructional time** by high school graduation. 
@@ -20,5 +22,3 @@ Mayor Emanuel has made investments throughout the city’s educational systems t
 1. In 2011, Mayor Emanuel launched the groundbreaking **College to Careers program**, designed to ensure that students gain the skills required for the careers of tomorrow. As part of this initiative, Mayor Emanuel launched Centers of Excellence at each City Colleges campus, aligning with in-demand industries like healthcare, transportation and logistics, advanced manufacturing, culinary arts and hospitality, and information technology. 
 
 [Read more about the {{page.title}} progress made over the last eight years.]({{site.url}}/download/Moving Chicago Forward.pdf)
-
-![Image of young girl raising her hand](/assets/img/Promoting Engaged, Prepared, and Cohesive Communities.jpg) 

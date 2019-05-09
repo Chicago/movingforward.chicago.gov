@@ -5,6 +5,7 @@ title: New Americans
 
 ---
 
+![Image of children singing](/assets/img/205 disney magnet.jpg) 
 
 Mayor Emanuel has been committed to making Chicago the most immigrant-friendly city in the nation by improving access to services, expanding new and existing immigrant businesses, and welcoming and celebrating Chicago’s diverse immigrant communities. Throughout its history, Chicago has benefited from the immeasurable cultural and economic contributions of its immigrant populations, and from the rich fabric of distinct and vibrant neighborhoods they have helped to create. Over the past eight years, Chicago has built momentum and established itself as a place where all are welcome to call home. 
 
@@ -22,4 +23,3 @@ Mayor Emanuel has been committed to making Chicago the most immigrant-frien
 
 [Read more about the {{page.title}} progress made over the last eight years.]({{site.url}}/download/Moving Chicago Forward.pdf)
 
-![Image of children singing](/assets/img/205 disney magnet.jpg) 

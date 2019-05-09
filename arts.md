@@ -5,6 +5,8 @@ title: Arts, Culture and Tourism
 
 ---
 
+![Instructor and participants at SummerDance in Grant Park](/assets/img/Summerdance.jpg)
+
 Since taking office in 2011, Mayor Emanuel has been an enthusiastic champion for the arts in Chicago. Mayor Emanuel’s administration oversaw the design and implementation of the city’s first cultural plan in 25 years, an inaugural Arts Education plan, plus city-wide campaigns to bring public art and theatre to every corner of Chicago. The Department of Cultural Affairs and Special Events (DCASE) now presents 2,000 cultural programs annually for an audience of more than 25 million residents and visitors, including farmers markets, concerts, film events, youth programming, and exhibitions. These investments have positioned Chicago as a global cultural powerhouse and have garnered big tourism successes: a record-breaking 57.7 million people visited Chicago in 2018, driving $15 billion into the economy and supporting more than 150,000 jobs. During Mayor Emanuel’s time in office, Chicago has been named Condé Nast Traveler’s “Best Big City in the U.S.” and Time Out’s “Best City for Having It All.” 
 
 1. DCASE guided the development of Chicago’s first **Cultural Plan** in 25 years, setting out key priorities for arts learning, elevating neighborhood cultural assets, retaining creative professionals, and amplifying Chicago’s reputation as a global cultural destination. 
@@ -18,9 +20,3 @@ Since taking office in 2011, Mayor Emanuel has been an enthusiastic champion for
 1. Chicago is a city of festivals, with more than **700 neighborhood events** facilitated by DCASE annually including performances, films, festivals, and youth programming.
 
 [Read more about the {{page.title}} progress made over the last eight years.]({{site.url}}/download/Moving Chicago Forward.pdf)
-
-![Instructor and participants at SummerDance in Grant Park](/assets/img/Summerdance.jpg)
-
-
- 
-

@@ -5,6 +5,8 @@ title: Quality of Life
 
 ---
 
+![young girls smell flowers in conservatory](/assets/img/youth_flowers.jpg)
+
 Improving quality of life for Chicago residents has been a central priority to Mayor Emanuel since taking office in 2011. From neighborhood development and expanded access to the lakefront, to improved healthcare and efficient public transportation, Mayor Emanuel has invested in infrastructure, programs, and services to make Chicago a great place to live, work, and visit. This commitment means championing diversity and investing in quality of life for all residents, across all of Chicago’s 77 neighborhoods, in aspects of community life like accessibility, public health, food access, and recreation.
 
 1. Today 1.5 million commuters ride Chicago’s trains and buses every day, with 91 percent of transit users reporting that they’d recommend CTA services. Nearly one-third of Chicago’s “L” tracks have been **rebuilt for faster and smoother rides**, and rail cars from the 1970’s have been replaced with the latest models. More than three dozen “L” stations have been overhauled, many rebuilt into sleek, steel-and-glass outposts. There are new elevators, wider platforms, high-definition security cameras, and works by renowned artists.
@@ -25,4 +27,3 @@ Improving quality of life for Chicago residents has been a central priority to M
 
 [Read more about the {{page.title}} progress made over the last eight years.]({{site.url}}/download/Moving Chicago Forward.pdf)
 
-![young girls smell flowers in conservatory](/assets/img/youth_flowers.jpg)

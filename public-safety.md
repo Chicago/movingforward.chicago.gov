@@ -4,6 +4,8 @@ layout: page
 title: Public Safety and Violence Prevention 
 ---
 
+![Image of community event with CPD](/assets/img/CAPS.jpg) 
+
 After seeing the fewest murders in Chicago in 2014 since 1965, the city endured a traumatic and unprecedented rise in gun violence in 2016. That September, Mayor Emanuel called on all Chicagoans to join in a comprehensive plan to confront gun violence that included: strengthening law enforcement resources; increased investments in violence prevention; advocacy for legislation to address gun violence; deepened economic development and employment opportunities to treat the root causes of violence; and community trust and legitimacy between the Chicago Police Department (CPD) and the communities it officers serve.  
 
 Since that call to action by Mayor Emanuel, CPD has added more officers, increased the numbers of sergeants, field training officers, and detectives, substantially increased training, reformed oversight, and introduced state of the art technology to fight gun violence. Though much work still needs to be done, the strategy has led to marked decline from the peak of violence in 2016.  
@@ -26,4 +28,3 @@ Since that call to action by Mayor Emanuel, CPD has added more officers, increas
 
 [Read more about the {{page.title}} progress made over the last eight years.]({{site.url}}/download/Moving Chicago Forward.pdf)
 
-![Image of community event with CPD](/assets/img/CAPS.jpg) 

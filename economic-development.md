@@ -5,6 +5,8 @@ title: Economic Development
 
 ---
 
+![Method Factory in Pullman](/assets/img/Method Factory.jpg) 
+
 As a world-class city located at the center of the nation’s air, rail and freight networks, Chicago has tremendous strengths that position it to be a top global city in the 21st century. Mayor Emanuel has committed to ensuring that every neighborhood across the city benefits from these strengths and has focused on bringing new businesses and creating jobs by cutting red tape, offering expanded resources to small businesses, investing in infrastructure, creating more affordable housing and modernizing the city’s approach to training its workforce. 
 
 1. In 2012, Mayor Emanuel and World Business Chicago released the city’s **first regional economic growth plan** to drive Chicago’s leadership in the global economy and to drive clear, actionable strategies for economic growth and job creation in every neighborhood. 
@@ -20,6 +22,3 @@ As a world-class city located at the center of the nation’s air, rail and frei
 1. Mayor Emanuel launched the city’s **first-ever technology plan** and ChicagoNEXT, a dedicated effort to drive growth and opportunity in Chicago’s tech community, governed by a council of industry leaders. KPMG has ranked Chicago as the sixth strongest tech hub in the world and Modis called Chicago the world’s number one emerging tech hub. 
 
 [Read more about the {{page.title}} progress made over the last eight years.]({{site.url}}/download/Moving Chicago Forward.pdf)
-
-
-![Method Factory in Pullman](/assets/img/Method Factory.jpg) 

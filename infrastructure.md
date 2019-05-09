@@ -5,6 +5,8 @@ title: Infrastructure, Transportation and City Services
 
 ---
 
+![Image of bridge reconstruction](/assets/img/Ensuring the Provision of Critical Infrastructure.jpg) 
+
 Chicago’s rise has been fueled by its place at the center of the nation’s transportation system, from its role as a nexus for highways and railways due to its proximity to Lake Michigan and the Mississippi River. Mayor Emanuel believes that the city’s future depends on modern infrastructure and has invested accordingly through initiatives like Building a New Chicago, Building on Burnham, 311 Modernization and a historic investment in the Chicago Transit Authority. Over the last eight years, the Emanuel administration has sought and secured more than $4.6 billion in federal funding for Chicago transit and has directed $35 billion to be spent on construction and renovation for schools, parks, transit, roads, bridges, and water and sewer main replacement, creating an estimated 150,000 jobs.
 
 1. Launched in 2012, **Building a New Chicago** is an $8 billion infrastructure program and one of the largest investments in infrastructure in the city’s history. The program has touched nearly every aspect of the city’s infrastructure network and is supporting more than 30,000 jobs.
@@ -26,5 +28,3 @@ Chicago’s rise has been fueled by its place at the center of the nation’s tr
 1. Since 2011, more than $11 billion in airfield, passenger terminal, and infrastructure investments have been secured for **Chicago’s airports**. The O’Hare 21 program will deliver the biggest terminal expansion in ORD history. Over the next decade the $8.5 billion initiative will usher in capacity-building and connectivity-enhancing projects within and around the terminals to streamline travel and upgrade the passenger experience.
 
 [Read more about the {{page.title}} progress made over the last eight years.]({{site.baseurl}}download/Moving Chicago Forward.pdf)
-
-![Image of bridge reconstruction](/assets/img/Ensuring the Provision of Critical Infrastructure.jpg) 

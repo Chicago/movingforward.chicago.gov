@@ -5,6 +5,8 @@ title: Environment and Sustainability
 
 ---
 
+![Image of roof solar field](/assets/img/026 solar field.jpg) 
+
 Mayor Emanuel believes that sustainability and economic growth go hand in hand. By increasing the efficiency of buildings and transportation, Chicago saves money, conserves resources and reduces greenhouse gas emissions. During his two terms in office, Mayor Emanuel has directed historic investments in energy efficiency, environmentally-friendly transit options and green infrastructure that will create jobs and improve residents’ quality of life. Mayor Emanuel also made the air cleaner for residents by closing the last two coal-fired plans in the city and cracking down on petroleum coke facilities on the Southeast Side.
 
 1. Chicago has **doubled down on reducing emissions** while also growing the city’s economy. During his second term in office, Mayor Emanuel issued an Executive Order committing Chicago to reduce its greenhouse gas emissions by 26-28 percent compared to 2005 levels by 2025, matching the original commitment made in the Paris Agreement. The city has already achieved 40 percent of its Paris Agreement carbon goal and increased the number of associated jobs by seven percent. 
@@ -20,5 +22,3 @@ Mayor Emanuel believes that sustainability and economic growth go hand in hand. 
 1. In 2013, Mayor Emanuel introduced a **transit-oriented development** ordinance which is creating opportunities for more housing to be developed near transit, supporting affordability and walkability. Mayor Emanuel has led two major revisions to the ordinance since, extending incentives to high-frequency, high-capacity bus corridors. 
 
 [Read more about the {{page.title}} progress made over the last eight years.]({{site.url}}/download/Moving Chicago Forward.pdf)
-
-![Image of roof solar field](/assets/img/026 solar field.jpg) 

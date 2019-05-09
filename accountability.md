@@ -1,9 +1,11 @@
 ---
 
-layout: default
+layout: page
 title: Accountability, Transparency and Ethics
-hero: 
+
 ---
+
+![image of the exterior of City Hall](/assets/img/City Hall.jpg) 
 
 From day one Mayor Emanuel has worked to restore faith in government by changing the culture of City Hall. The Mayor’s first act in office was signing a series of executive orders to strengthen ethics rules and close the revolving door between lobbying and government. Since then, the City has passed five sweeping ethics reform ordinances, replaced the entire Board of Ethics, strengthened disclosure requirements for lobbyists, and established an independent budget office to serve as a watchdog for taxpayer dollars.
 
@@ -27,4 +29,3 @@ In addition, the administration has brought a new level of accountability to Cit
 
 [Read more about the {{page.title}} progress made over the last eight years.]({{site.url}}/download/Moving Chicago Forward.pdf)
 
-![image of the exterior of City Hall](/assets/img/City Hall.jpg) 

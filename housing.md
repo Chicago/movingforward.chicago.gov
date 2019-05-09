@@ -1,9 +1,12 @@
 ---
 
-layout: home
+layout: page
 title: Housing and Homelessness 
 
 ---
+
+![image of neighborhood housing](/assets/img/EAST_SIDE.jpg) 
+
 
 Since taking office in 2011, Mayor Emanuel has supported affordable housing in every neighborhood by expanding the Affordable Requirements Ordinance, implementing and expanding transit-oriented development, and building or preserving more than 60,000 affordable homes and apartments. Mayor Emanuel elevated housing and homelessness as key policy issues when he launched the Department of Housing in 2018 and engaged stakeholders across the city in creating the new Five-Year Housing Plan. From 2011 to 2018, the annual Point in Time Count decreased by 17 percent, representing a substantial decline in the number of individuals experiencing homelessness. The City also piloted innovative programs like co-located public housing and library projects designed by world-class architects and new, effective homelessness interventions like the Flexible Housing Subsidy Program, rapidly linking frequent utilizers of emergency services to stable, supportive housing. 
 
@@ -25,4 +28,4 @@ Since taking office in 2011, Mayor Emanuel has supported affordable housing in e
 
 1. In 2015, Mayor Emanuel announced the **End Veterans Homelessness Initiative (EVHI)** coupled by the Plan to End Veteran Homelessness. The effort has helped house more than 2,500 veterans since January 2015.
 
-[Read more about the {{page.title}} progress made over the last eight years.]({{site.url}}/download/Moving Chicago Forward.pdf)
+[Read more about the {{page.title}} progress made over the last eight years.]({{site.url}}download/Moving Chicago Forward.pdf)

@@ -5,6 +5,8 @@ title: Fighting for Working Families
 
 ---
 
+![Image of family walking in front of homes in West Garfield Park](/assets/img/WEST_GARFIELD_PARK.jpg)
+
 Over the past eight years, Mayor Emanuel has made it a priority to generate jobs and growth in every part of Chicago and has fought to ensure that hard work pays off for all Chicagoans. The Emanuel Administration has raised the bar for families outside the workplace through innovative programs that ensure children of all backgrounds have access to free, high-quality educational options that provide a path to opportunity. The City of Chicago is now home to more private sector jobs per capita than any time in the past five decades, while poverty city-wide has declined for five straight years, hitting its lowest level in more than a decade. Furthermore, Chicago continues to experience record-low unemployment, which has declined by more than 60 percent since Mayor Emanuel took office in 2011.
 
 1. In 2014, City Council passed Mayor Emanuel’s ordinance to **raise the minimum wage** to $13.00 by July 2019, resulting in a 57 percent increase for minimum wage workers in the city over a five year period, at a time when the state’s minimum wage has remained flat. By the time the minimum wage reaches $13.00 this summer, the ordinance will have provided a wage increase for an estimated 410,000 workers and have generated an additional $860 million for the local economy.   
@@ -19,4 +21,3 @@ Over the past eight years, Mayor Emanuel has made it a priority to generate job
 
 [Read more about the {{page.title}} progress made over the last eight years.]({{site.url}}/download/Moving Chicago Forward.pdf)
 
-![Image of family walking in front of homes in West Garfield Park](/assets/img/WEST_GARFIELD_PARK.jpg) 

@@ -17,6 +17,7 @@ hero:
 ---
 
 **Eight years ago, Mayor Emanuel campaigned on a promise to bring change to Chicago communities and to tackle the most pressing problems facing the city.** When he took office, the City faced a financial crisis—with a $635 million structural budget deficit. Chicago’s students had one of the shortest school days in the nation and residents were facing record unemployment rates and a loss of confidence across the city.
+
 From day one, Mayor Emanuel aligned his priorities to take on the hard work of securing Chicago’s future. Working with residents, business and community leaders, he worked to do what was necessary, instead of what was easy, to put Chicago in a better, stronger position and to ensure that Chicago remains a vibrant, sustainable and thriving city in which to live, work and raise a family.
 
 Over the past eight years, these efforts have included:
