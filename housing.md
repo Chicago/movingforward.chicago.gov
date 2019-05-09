@@ -1,6 +1,6 @@
 ---
 
-layout: page
+layout: home
 title: Housing and Homelessness 
 
 ---
@@ -25,6 +25,4 @@ Since taking office in 2011, Mayor Emanuel has supported affordable housing in e
 
 1. In 2015, Mayor Emanuel announced the **End Veterans Homelessness Initiative (EVHI)** coupled by the Plan to End Veteran Homelessness. The effort has helped house more than 2,500 veterans since January 2015.
 
-[Read more about the {{page.title}} progress made over the last eight years.]({{site.url}}download/Moving Chicago Forward.pdf)
-
-![image of neighborhood housing](/assets/img/EAST_SIDE.jpg) 
+[Read more about the {{page.title}} progress made over the last eight years.]({{site.url}}/download/Moving Chicago Forward.pdf)

@@ -25,6 +25,6 @@ In addition, the administration has brought a new level of accountability to Cit
 
 1. Mayor Emanuel launched the **Procurement Reform Task Force** in 2015, co-chaired by the Chief Procurement Officer and the Inspector General. The recommendations of the task force will increase transparency for the public, reduce administrative burden, increase competition, and lower barriers to entry for our small local businesses and save taxpayer money. As a result of the Task Force’s recommendations, the City has been highlighted as a national leader of inclusive procurement practices such as the Diversity Credit Program and Small Business Initiative.
 
-[Read more about the {{page.title}} progress made over the last eight years.]({{site.url}}download/Moving Chicago Forward.pdf)
+[Read more about the {{page.title}} progress made over the last eight years.]({{site.url}}/download/Moving Chicago Forward.pdf)
 
 ![image of the exterior of City Hall](/assets/img/City Hall.jpg) 
