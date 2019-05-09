@@ -17,7 +17,7 @@ Since taking office in 2011, Mayor Emanuel has been an enthusiastic champion for
 
 1. Chicago is a city of festivals, with more than **700 neighborhood events** facilitated by DCASE annually including performances, films, festivals, and youth programming.
 
-To read more about the Arts, Culture and Tourism progress made over the last eight years, click here. 
+[Read more about the {{page.title}} progress made over the last eight years.](https://resilient.chicago.gov/download/Moving Chicago Forward.pdf)
 
 ![Instructor and participants at SummerDance in Grant Park](/assets/img/Summerdance.jpg)
 

@@ -19,6 +19,7 @@ As a world-class city located at the center of the nation’s air, rail and frei
 
 1. Mayor Emanuel launched the city’s **first-ever technology plan** and ChicagoNEXT, a dedicated effort to drive growth and opportunity in Chicago’s tech community, governed by a council of industry leaders. KPMG has ranked Chicago as the sixth strongest tech hub in the world and Modis called Chicago the world’s number one emerging tech hub. 
 
-To read more about the Economic Development progress made over the last eight years, click here.
+[Read more about the {{page.title}} progress made over the last eight years.](https://resilient.chicago.gov/download/Moving Chicago Forward.pdf)
+
 
 ![Method Factory in Pullman](/assets/img/Method Factory.jpg) 

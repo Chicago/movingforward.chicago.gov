@@ -31,7 +31,9 @@ Over the past eight years, these efforts have included:
 
 Through this tremendous collective effort, Chicago has seen a transformation that no one would have anticipated in 2011. From the achievement of record academic gains for CPS students, to historic lows in unemployment rates and the highest level of jobs per-capita in the City in over five decades. The investments and initiatives of the past eight years have built momentum to ensure Chicago’s brightest days remain ahead.
 
-Read More [Link to PDF Page 9]
+
+[Read more about this in the report, beginning on page 9.](https://resilient.chicago.gov/download/Moving Chicago Forward.pdf)
+
 
 ## 2011 Transition to Today
 

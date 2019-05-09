@@ -19,6 +19,6 @@ Mayor Emanuel has made investments throughout the city’s educational systems t
 
 1. In 2011, Mayor Emanuel launched the groundbreaking **College to Careers program**, designed to ensure that students gain the skills required for the careers of tomorrow. As part of this initiative, Mayor Emanuel launched Centers of Excellence at each City Colleges campus, aligning with in-demand industries like healthcare, transportation and logistics, advanced manufacturing, culinary arts and hospitality, and information technology. 
 
-To read more about the Education and Youth progress made over the last eight years, click here.
+[Read more about the {{page.title}} progress made over the last eight years.](https://resilient.chicago.gov/download/Moving Chicago Forward.pdf)
 
 ![Image of young girl raising her hand](/assets/img/Promoting Engaged, Prepared, and Cohesive Communities.jpg) 

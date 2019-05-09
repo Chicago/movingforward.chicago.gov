@@ -19,6 +19,6 @@ Mayor Emanuel believes that sustainability and economic growth go hand in hand. 
 
 1. In 2013, Mayor Emanuel introduced a transit-oriented development ordinance which is creating opportunities for more housing to be developed near transit, supporting affordability and walkability. Mayor Emanuel has led two major revisions to the ordinance since, extending incentives to high-frequency, high-capacity bus corridors. 
 
-To read more about the Environment and Sustainability progress made over the last eight years, click here.
+[Read more about the {{page.title}} progress made over the last eight years.](https://resilient.chicago.gov/download/Moving Chicago Forward.pdf)
 
 ![Image of roof solar field](/assets/img/026 solar field.jpg) 
