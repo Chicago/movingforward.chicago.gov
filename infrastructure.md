@@ -11,7 +11,7 @@ Chicago’s rise has been fueled by its place at the center of the nation’s tr
 
 1. During his two terms in office, Mayor Emanuel expanded Chicago’s park assets through his ambitious **Building on Burnham Plan**. Working with the Chicago Park District, Mayor Emanuel met—and exceeded—targets to increase residents’ access to green spaces and waterfronts. Today, nearly every Chicago resident lives within a 10-minute walk of a park or open space. 
 
-1. The Chicago Department of Transportation, the Department of Water Management, private contractors, and utilities will have resurfaced more than 2,165 miles of streets and alleys during Mayor Emanuel’s tenure. Nearly 600 miles of old water mains have been replaced and more than 450 miles of sewer mains have been replaced or lined since 2011.
+1. The Chicago Department of Transportation, the Department of Water Management, private contractors, and utilities will have **resurfaced more than 2,165 miles of streets and alleys** during Mayor Emanuel’s tenure. Nearly 600 miles of old water mains have been replaced and more than 450 miles of sewer mains have been replaced or lined since 2011.
 
 1. Mayor Emanuel has worked to improve the city’s **bicycling infrastructure** to foster the quality of life that will attract businesses and families to Chicago. The city now offers more than 210 miles of on-street protected, buffered and traditional bike lines, plus many miles of off-street paths and more than 15,000 bike racks. The Divvy bikeshare system is benefitting from a $50 million modernization and expansion resulting in approximately 16,500 bikes across 800 stations. The system will expand to all 50 wards by 2021.
 
