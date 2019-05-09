@@ -10,7 +10,7 @@ hero:
     alt: "Moving Chicago Forward"
     text: A Look Back On Eight Years Of Progress
   button:
-    href: {{site.baseurl}}download/Moving Chicago Forward.pdf
+    href: /download/Moving Chicago Forward.pdf
     text: Download the report
   content: "Read the full report here:" 
 
